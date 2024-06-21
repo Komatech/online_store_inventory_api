@@ -94,6 +94,7 @@ To run the tests, use the following command:
 ### Using Virtual Environment:
 ```bash
 python manage.py test inventory.test
+```
 
 ## API Documentation
 
